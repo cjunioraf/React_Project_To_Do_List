@@ -1,0 +1,32 @@
+body {
+    font-family: "Arial";
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+button{
+    background-color: #5cb85c;
+    color: #fff;
+    /* remover as bordas do botão   */
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;    
+}
+
+button:hover{
+    background-color: #36a036;    
+}
+
+button[type="submit"]{
+    background-color: #337ab7;
+}
+
+button[type="submit"]:hover {
+    background-color: #155892;
+}

@@ -1,0 +1,11 @@
+li{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    margin-bottom: 8px;
+    /* posiciona o botão ao lado do testo */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 4px;
+}
