@@ -9,3 +9,11 @@ li{
     align-items: center;
     border-radius: 4px;
 }
+
+li span{
+    cursor: pointer;
+}
+
+li span:hover{
+    color: rgb(218, 24, 24);
+}
